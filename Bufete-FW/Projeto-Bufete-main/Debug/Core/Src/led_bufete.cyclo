@@ -1,0 +1,3 @@
+../Core/Src/led_bufete.c:62:6:leds_init	2
+../Core/Src/led_bufete.c:69:6:turnOnLed	1
+../Core/Src/led_bufete.c:73:6:turnOffLed	1

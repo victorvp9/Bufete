@@ -1,0 +1,7 @@
+../Core/Src/ringbuffer.c:10:6:Ringbuf_init	16	static
+../Core/Src/ringbuffer.c:22:6:write_byte	24	static
+../Core/Src/ringbuffer.c:40:6:write_array	32	static
+../Core/Src/ringbuffer.c:54:10:read_byte	24	static
+../Core/Src/ringbuffer.c:71:11:read_buffer	32	static
+../Core/Src/ringbuffer.c:85:10:isEmpty	16	static
+../Core/Src/ringbuffer.c:98:10:isFull	16	static

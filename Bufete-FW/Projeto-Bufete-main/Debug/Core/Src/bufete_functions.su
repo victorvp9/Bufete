@@ -1,0 +1,5 @@
+../Core/Src/bufete_functions.c:35:6:bufete_check_payload	24	static
+../Core/Src/bufete_functions.c:47:10:get_response	16	static
+../Core/Src/bufete_functions.c:52:6:bufete_auth	16	static
+../Core/Src/bufete_functions.c:58:6:bufete_led_on	24	static
+../Core/Src/bufete_functions.c:89:6:bufete_led_test	24	static

@@ -1,0 +1,5 @@
+../Core/Src/bufete_rx.c:15:6:rx_start	16	static
+../Core/Src/bufete_rx.c:25:6:rx_init	24	static
+../Core/Src/bufete_rx.c:39:6:bufete_rx_write_byte	16	static
+../Core/Src/bufete_rx.c:64:6:bufete_rx_write_array	24	static
+../Core/Src/bufete_rx.c:76:10:bufete_rx_translate	24	static

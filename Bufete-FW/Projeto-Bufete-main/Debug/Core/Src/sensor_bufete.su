@@ -1,0 +1,5 @@
+../Core/Src/sensor_bufete.c:90:6:sensorListInit	32	static
+../Core/Src/sensor_bufete.c:103:6:sensorInit	56	static
+../Core/Src/sensor_bufete.c:123:13:configure_ADC_Pin	16	static
+../Core/Src/sensor_bufete.c:131:17:get_ADC_Read	24	static
+../Core/Src/sensor_bufete.c:145:10:checkImpact	48	static
